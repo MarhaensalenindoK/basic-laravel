@@ -1,0 +1,13 @@
+body {
+    background: black;
+    color: white;
+}
+footer {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    height: 50px;
+    line-height: 50px;
+    color: #fff;
+    padding-left: 10px;
+}
